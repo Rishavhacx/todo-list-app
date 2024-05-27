@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="your_task_will_go_here">your task will go here</string>
+    <string name="priority_high">Priority - High</string>
+    <string name="delete_card">delete card</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="priority">Priority</string>
+    <string name="enter_task">Enter Task</string>
+    <string name="update_details">Update Details</string>
+</resources>
